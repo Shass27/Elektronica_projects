@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon\r
+__MACOSX/
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# Arduino / build artifacts
+*.tmp
+*.log
+*.elf
+*.elf.*
+*.hex
+*.bin
+*.eep
+*.map
+*.pio/
+*/build/
+
+# General
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
